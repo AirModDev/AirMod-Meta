@@ -5,5 +5,12 @@
         "capes": [
             "player"
         ]
+    },
+    {
+        "uuid": "f1aeb725-a169-43c4-b865-9a17ab5f4b55",
+        "rank": "ADMINISTRATOR",
+        "capes": [
+            "player"
+        ]
     }
 ]
